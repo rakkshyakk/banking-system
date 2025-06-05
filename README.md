@@ -8,8 +8,9 @@ This is a Java console application for a simple banking system.
 
 ## Features
 
-- Account creation
+- View Details of the accounts stored
 - Deposit and withdrawal
+- Transfer 
 - Balance inquiry
 - Basic console interface
 
